@@ -1,6 +1,7 @@
 @font-face {
   font-family: flott;
-  src: url(/fonts/Flottflott.ttf);
+  src: url(/fonts/Flottflott.ttf)
+  format("truetype");
 }
 
 @font-face {
