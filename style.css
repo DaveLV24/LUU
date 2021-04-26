@@ -5,12 +5,12 @@
 
 @font-face {
   font-family: FontBold;
-  src: url(/images/BlenderPro-Bold.woff2);
+  src: url(/fonts/BlenderPro-Bold.woff2);
 }
 
 @font-face {
   font-family: FontBook;
-  src: url(/images/BlenderPro-Book.woff2);
+  src: url(/fonts/BlenderPro-Book.woff2);
 }
 
 body {
