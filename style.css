@@ -1,16 +1,19 @@
 @font-face {
   font-family: flott;
   src: url(/fonts/Flottflott.ttf);
+  font-weight: normal;  
 }
 
 @font-face {
   font-family: FontBold;
   src: url(/fonts/BlenderPro-Bold.woff2);
+  font-weight: normal; 
 }
 
 @font-face {
   font-family: FontBook;
   src: url(/fonts/BlenderPro-Book.woff2);
+  font-weight: normal; 
 }
 
 body {
