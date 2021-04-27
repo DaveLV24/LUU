@@ -78,7 +78,7 @@ $(function () {
     '<h2 class="featurette-heading">Wow you did it! <span class="text-muted">You unlocked secret section..</span></h2>' +
     '<p class="lead" id="colors">I was pretty sure no one would find this.</p> </div>' +
     '<div class="col-md-2 order-md-1">' +
-    '<img class="featurette-image img-fluid mx-auto about-img" alt="secret-pic" src="../../images/congrats.png">' +
+    '<img class="featurette-image img-fluid mx-auto about-img" alt="secret-pic" src="images/congrats.png">' +
     "</div>" +
     "</div>" +
     "<hr>";
